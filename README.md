@@ -22,7 +22,7 @@ ease of porting.
 - clear configurations written in YAML that are typically just a few hundred lines
 - data is piped between commands in an intelligent way (so many variables don't need to be set explicitly)
 - an arbitrary number of data sources can be processed in parallel
-- 
+
 
 
 # Original purpose
