@@ -31,3 +31,4 @@ It was originally designed for the purpose of fetching product inventories, pric
 different sources (FTP, HTTP, email...) and to load / manipulate / merge the data into a standard format to be
 loaded into a product inventory management system, but has been designed in a generic way so that it could be
 used for arbitrary data.
+
